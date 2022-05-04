@@ -2,7 +2,6 @@
 [LinkedIn Profile](https://www.linkedin.com/in/simon-kamoza)
 ### Software engineer
 ### Rendering geek
-### Game Engine developer at [Supermassive Games](https://www.supermassivegames.com/)
 
 # Educational and pet projects
 
